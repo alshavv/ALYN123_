@@ -5,12 +5,9 @@
     font-family: 'Open Sans', sans-serif;
 }
 body{
-    height: 100vh;
-    background-image: url(fixbg.jpg);
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
+    background-image: url(img/fixbg.jpg) no-repeat top center;
 }
+
 p {
   color: white;
   font-family: 'Open Sans', sans-serif;
